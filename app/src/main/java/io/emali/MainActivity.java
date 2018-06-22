@@ -9,7 +9,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        System.out.print("Kavis");
-
+        //Should be Jacky and wing
+        System.out.print("Jacky");
+        System.out.print("wing");
     }
 }
