@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "393956468346",
+    "firebase_url": "https://polyblockchainintern.firebaseio.com",
+    "project_id": "polyblockchainintern",
+    "storage_bucket": "polyblockchainintern.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393956468346:android:67f160b75c86b7ac",
+        "android_client_info": {
+          "package_name": "io.emali"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393956468346-pus5vsam58ig04ik1q6uceq8qgrr815j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.emali",
+            "certificate_hash": "79ed65952e75876de0709acf9cc0cb0474814e0b"
+          }
+        },
+        {
+          "client_id": "393956468346-07bmsc5b0aqsatvhuo7s10brbmrqsu7d.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "393956468346-07bmsc5b0aqsatvhuo7s10brbmrqsu7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW2Z5kofilJbFTnYoQ_RvC_y4fotY1sqM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393956468346-07bmsc5b0aqsatvhuo7s10brbmrqsu7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
